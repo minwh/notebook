@@ -1,6 +1,7 @@
 ## Common
 - [Casbin](https://casbin.org/zh/)：跨语言，支持ACL, RBAC, ABAC等访问模型的授权库
 - [PolarisMesh](https://polarismesh.cn/)：支持多语言、多框架的云原生服务治理平台
+- [XXL-JOB](https://www.xuxueli.com/xxl-job/)：轻量级任务调度
 
 ## Java
 - [arthas](https://arthas.aliyun.com/)：debug工具，性能分析、热更新。。。
@@ -30,3 +31,4 @@
 - [FUXA](https://github.com/frangoteam/FUXA)：组态、SCADA
 - [PostGIS](https://postgis.net/)：GIS平台
 
+## 书籍&资料

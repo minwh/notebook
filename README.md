@@ -32,3 +32,4 @@
 - [PostGIS](https://postgis.net/)：GIS平台
 
 ## 书籍&资料
+- [一文读懂Faster RCNN](https://zhuanlan.zhihu.com/p/31426458)

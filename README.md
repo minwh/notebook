@@ -18,7 +18,7 @@
 - [OpenMMLab](https://github.com/open-mmlab)：开源算法集合，检测、分类、分割、三维。。。
 
 ## 大数据
-- https://bigdata.djbook.top/：导航网站
+- https://bigdata.djbook.top/ ：导航网站
 - [DolphinScheduler](https://dolphinscheduler.apache.org/zh-cn/index.html)：任务调度
 
 ## 低代码

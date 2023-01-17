@@ -1,3 +1,5 @@
+## 工具
+ - [K6](https://k6.io/)：性能测试工具，用js编写用例，高性能，灵活，开发者友好
 ## Common
 - [Casbin](https://casbin.org/zh/)：跨语言，支持ACL, RBAC, ABAC等访问模型的授权库
 - [PolarisMesh](https://polarismesh.cn/)：支持多语言、多框架的云原生服务治理平台
